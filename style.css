@@ -1,3 +1,7 @@
+  body{
+    text-align: center;
+  }
+  
   .heading
   {
     font-size: 19px;
@@ -8,7 +12,7 @@
   .heading_div
   {
     float:none;
-    background: white ; 
+    background: #ffffff ; 
     padding: 3px;
     border-radius: 20px; 
     color: black;
@@ -37,4 +41,10 @@
     background-color:greenyellow;
     line-height: 3;
     text-align: center;
+  }
+
+  canvas
+  {
+    margin-top:160px;
+    
   }
